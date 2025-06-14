@@ -2,7 +2,7 @@ Sure! Here's a short version of a **README.md** file:
 
 ---
 
-# Python Project
+# Projects
 
 ## Description
 This repository contains Python scripts related to predictive modelling and analysis. It demonstrates IBM Notebook, IBM Auto AI, and the objective is to get the insights about various dataset.
